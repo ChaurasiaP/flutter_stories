@@ -1,0 +1,204 @@
+{
+  "stories": [
+    {
+      "state": "Rajasthan",
+      "places": [
+        {
+          "name": "Amber Fort, Jaipur",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Amber_fort.JPG",
+          "description": "16th‑century hilltop fortress of pink sandstone overlooking Maota Lake. Known for its Sheesh Mahal (mirror palace) and courtyards."
+        },
+        {
+          "name": "Hawa Mahal, Jaipur",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hawa_Mahal_Jaipur_%28June_2018%29.jpg",
+          "description": "The 'Palace of Winds' has 953 ornate windows for royal women to view festivals unseen—a honeycomb façade icon."
+        },
+        {
+          "name": "City Palace, Udaipur",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Udaipur_City_Palace2.JPG",
+          "description": "A sprawling palace complex on Lake Pichola combining Rajasthani and Mughal architecture, with mosaics and balconies."
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "places": [
+        {
+          "name": "Munnar",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Munnar_hill_station.jpg",
+          "description": "Hill station in the Western Ghats at 1,600 m elevation. Famed for rolling tea plantations and mist‑clad peaks."
+        },
+        {
+          "name": "Lockhart Tea Museum",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lockhart_Tea_Museum.jpg",
+          "description": "Set in a 1930s tea factory, showcases colonial equipment and bean‑to‑cup tea‑making history."
+        },
+        {
+          "name": "Lakkom Falls",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lakkom_Falls.jpg",
+          "description": "A multi‑tier waterfall in lush forest near Munnar, perfect for trekking and scenic nature walks."
+        }
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "places": [
+        {
+          "name": "Gateway of India, Mumbai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Gateway_of_India_Mumbai_03.JPG",
+          "description": "Iconic basalt arch built in 1924 to welcome British royalty, standing 26 m tall at Mumbai's waterfront."  
+        },
+        {
+          "name": "Ajanta Caves, Aurangabad",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ajanta_cave_19_1.jpg",
+          "description": "Rock‑cut Buddhist cave monuments (2nd century BCE–480 CE), famed for expressive murals and sculptures."  
+        },
+        {
+          "name": "Shaniwar Wada, Pune",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Shaniwar_Wada_pune.jpg",
+          "description": "18th‑century Maratha citadel, once palace‑fortress of the Peshwas. Famous for its ruins and fountains."
+        }
+      ]
+    },
+    {
+      "state": "Uttarakhand",
+      "places": [
+        {
+          "name": "Rishikesh",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rishikesh_laxmanjhula.jpg",
+          "description": "Spiritual town on the Ganges, known for Laxman Jhula, yoga ashrams, and river‑rafting."
+        },
+        {
+          "name": "Nainital",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Nainital_Lake.JPG",
+          "description": "Hill station built around a pear‑shaped lake, surrounded by wooded hills—ideal for boating and walks."
+        },
+        {
+          "name": "Haridwar",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Haridwar_Ganga_Aarti_2013.jpg",
+          "description": "One of Hinduism’s seven holiest cities where the Ganges descends to plains; Ganga‑aarti at dusk is mesmerizing."
+        }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "places": [
+        {
+          "name": "Meenakshi Temple, Madurai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Meenakshi_Temple_Towers.jpg",
+          "description": "Majestic 17th‑century temple complex with towering gopurams covered in colorful sculptures."
+        },
+        {
+          "name": "Ooty",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/OotyTFRainStock.jpg",
+          "description": "Queen of hill stations, situated in the Nilgiris at 2,240 m. Known for its lake, railway & tea estates."
+        },
+        {
+          "name": "Mahabalipuram",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shore_temple.JPG",
+          "description": "7th‑century UNESCO site of rock‑cut temples and sculptures by Pallava kings on the Bay of Bengal."
+        }
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "places": [
+        {
+          "name": "Darjeeling",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Darjeeling_-_kgplt1.jpg",
+          "description": "Hill station famed for Darjeeling tea, the UNESCO toy train, and Himalayan sunrise views over Kanchenjunga."
+        },
+        {
+          "name": "Sundarbans",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sundarbans_Mangrove_Forest.jpg",
+          "description": "World’s largest mangrove forest, home to Royal Bengal tigers and a unique estuarine ecosystem."
+        },
+        {
+          "name": "Victoria Memorial, Kolkata",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Victoria_Memorial_Kolkata_2010.jpg",
+          "description": "White marble palace‑museum built in British era, set in a landscaped garden overlooking the Maidan."
+        }
+      ]
+    },
+    {
+      "state": "Goa",
+      "places": [
+        {
+          "name": "Calangute Beach",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Calangute_Beach%2C_Goa.jpg",
+          "description": "One of Goa’s busiest beaches with water‑sports, beach shacks and vibrant nightlife."
+        },
+        {
+          "name": "Basilica of Bom Jesus, Old Goa",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Basilica_of_Bom_Jesus%2C_Goa_%28Front_View%29.jpg",
+          "description": "UNESCO World Heritage church holding St. Francis Xavier’s remains; famed Baroque architecture."
+        },
+        {
+          "name": "Dudhsagar Falls",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dudhsagar_Falls%2C_Goa.jpg",
+          "description": "Tall four‑tiered waterfall on Mandovi River, plunging in foamy white—a must‑see in monsoon."
+        }
+      ]
+    },
+    {
+      "state": "Delhi",
+      "places": [
+        {
+          "name": "Red Fort",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Red_Fort.JPG",
+          "description": "17th‑century Mughal red sandstone fortress; site of India’s Independence Day speech."
+        },
+        {
+          "name": "Qutub Minar",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Qutub_Minar_%28Qutub_Complex%29.jpg",
+          "description": "72.5‑m tall tapering minaret from 13th century; UNESCO site with ornate inscriptions and iron pillar."
+        },
+        {
+          "name": "India Gate",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/India_Gate_2014.jpg",
+          "description": "War memorial arch‑monument in Delhi, built to honor soldiers from WW I and Afghan wars."
+        }
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "places": [
+        {
+          "name": "Gangtok",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gangtok_Hill_View.jpg",
+          "description": "Capital city nestled in the Himalayas, base for treks & Tibetan Buddhist monasteries."
+        },
+        {
+          "name": "Tsomgo Lake",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tsomgo_Lake.JPG",
+          "description": "High‑altitude glacial lake at 3,780 m, sacred to locals and surrounded by snow‑capped peaks."
+        },
+        {
+          "name": "Nathula Pass",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nathula_Pass.jpg",
+          "description": "Mountain pass on India‑China border via old Silk Route, offering snow vistas and historical memorials."
+        }
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "places": [
+        {
+          "name": "Shimla",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Simla_-_Dec_2007.jpg",
+          "description": "Once British summer capital, hill‑station with colonial architecture, Mall Road, and toy train."
+        },
+        {
+          "name": "Manali",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Manali_Mountain_View.jpg",
+          "description": "Popular hill‑station in Kullu Valley, known for Solang Valley and adventure sports."
+        },
+        {
+          "name": "Dharamshala",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Dharamshala_from_above.jpg",
+          "description": "Headquarters of the Dalai Lama in exile, scenic town with Tibetan culture and trekking routes."
+        }
+      ]
+    }
+  ]
+}
